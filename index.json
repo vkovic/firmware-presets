@@ -6480,10 +6480,10 @@
     },
     {
       "fullPath": "presets/4.5/osd/vkovic-fstyle-osd.txt",
-      "hash": "fd5b2eb626a99b2e47ae6a647e257c2cac4ad873c7a73e0b841c333aa2738f06",
+      "hash": "9407cf2bb00949417604da62fdfeb0e55c1d9d9e947ca0c27ae67744805913f7",
       "title": "vkovic FreeStyle OSD",
       "firmware_version": [
-        "4.5"
+        "4.4"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
