@@ -8080,6 +8080,23 @@
       "author": "sugarK",
       "force_options_review": true,
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/osd/vkovic-fstyle-osd.txt",
+      "hash": "fd5b2eb626a99b2e47ae6a647e257c2cac4ad873c7a73e0b841c333aa2738f06",
+      "title": "vkovic freestyle osd",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD",
+        "freestyle"
+      ],
+      "author": "vkovic",
+      "priority": 1000000
     }
   ]
 }
