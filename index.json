@@ -6480,20 +6480,16 @@
     },
     {
       "fullPath": "presets/4.5/osd/vkovic-fstyle-osd.txt",
-      "hash": "1ec51d7d36153d98a7a4700cc8686fa2e820431a848d67980ad7378dcf9ac9d2",
-      "title": "sugarK HDzero OSD",
+      "hash": "fd5b2eb626a99b2e47ae6a647e257c2cac4ad873c7a73e0b841c333aa2738f06",
+      "title": "vkovic FreeStyle OSD",
       "firmware_version": [
         "4.5"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "hdzero",
-        "HD",
-        "HDOSD",
-        "OSD",
-        "sugarK",
-        "racing"
+        "freestyle",
+        "OSD"
       ],
       "author": "vkovic",
       "priority": 0
@@ -8079,23 +8075,6 @@
       ],
       "author": "sugarK",
       "force_options_review": true,
-      "priority": 1000000
-    },
-    {
-      "fullPath": "presets/4.5/osd/vkovic-fstyle-osd.txt",
-      "hash": "fd5b2eb626a99b2e47ae6a647e257c2cac4ad873c7a73e0b841c333aa2738f06",
-      "title": "vkovic freestyle osd",
-      "firmware_version": [
-        "4.4",
-        "4.5"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "OSD",
-        "freestyle"
-      ],
-      "author": "vkovic",
       "priority": 1000000
     }
   ]
